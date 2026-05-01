@@ -1,0 +1,38 @@
+{
+  "nodes": {
+    "master": {
+      "sensors": {
+        "ph": 7.2,
+        "ec": 450,
+        "gas": 320,
+        "airTemp": 28.5,
+        "waterTemp": 26.3,
+        "humidity": 65,
+        "timestamp": 1234567890
+      },
+      "motor": {
+        "status": "ON",
+        "mode": "AUTO",
+        "lastChanged": 1234567890
+      },
+      "thresholds": {
+        "phMin": 6.5,
+        "phMax": 7.5,
+        "ecMax": 800,
+        "gasMax": 500,
+        "tempMax": 35
+      }
+    },
+    "slave1": {
+      "sensors": { "..." : "..." },
+      "motor": { "..." : "..." },
+      "thresholds": { "..." : "..." }
+    }
+  },
+  "users": {
+    "userId123": {
+      "email": "user@example.com",
+      "role": "admin"
+    }
+  }
+}
