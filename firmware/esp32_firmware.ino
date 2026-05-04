@@ -4,10 +4,10 @@
 #include <ArduinoJson.h>
 
 // --- Configuration ---
-#define WIFI_SSID "YOUR_WIFI_SSID"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
-#define FIREBASE_HOST "YOUR_FIREBASE_PROJECT_ID.firebaseio.com"
-#define FIREBASE_AUTH "YOUR_FIREBASE_DATABASE_SECRET"
+#define WIFI_SSID "realme"
+#define WIFI_PASSWORD "jjjjjjjjjj"
+#define FIREBASE_HOST "smartlink-cefc5-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_AUTH "JOaEkby5nYWZT2iPYsIPzN1svx8f0haYiGQyNk3n"
 
 #define NODE_ID "master" // Change to slave1, slave2, etc. for other nodes
 
