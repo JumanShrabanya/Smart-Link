@@ -1,6 +1,6 @@
-# SmartNode IoT: Sensor Monitoring & Motor Control
+# Smart-Link IoT: Sensor Monitoring & Motor Control
 
-SmartNode IoT is a full-stack IoT solution designed for real-time environmental monitoring and automated hardware control. It features a master-slave architecture using ESP32 nodes, a Firebase Realtime Database backend, and a modern React Native mobile application.
+Smart-Link IoT is a full-stack IoT solution designed for real-time environmental monitoring and automated hardware control. It features a master-slave architecture using ESP32 nodes, a Firebase Realtime Database backend, and a modern React Native mobile application.
 
 ## 🚀 Key Features
 - **Real-time Monitoring**: Track PH, Conductivity, Gas, Temperature, and Humidity.
